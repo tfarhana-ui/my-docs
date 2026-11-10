@@ -1,7 +1,6 @@
 site_name: My Documentation
-theme:
-  name: material
+theme: material
 
 nav:
-  - Home: index.md
-  - Phone Guide: photoname.md
+- Home : index.md
+- PhotoGuide : photoname.md
